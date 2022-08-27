@@ -1,7 +1,5 @@
 # Analysis of Crime Data across the United States:
 
-# Aim of the Project:
-
 # Data Source:
 
 The FBI collects crime data through the Uniform Crime Reporting (UCR) Program, of which NIBRS is a part, is a city, county, state, and Federal law enforcement program.The data sourced for this project is from law enforcement agencies submitting 12 months of NIBRS data to the FBI UCR Program for 2012 and were converted and published in CIUS, 2012.
